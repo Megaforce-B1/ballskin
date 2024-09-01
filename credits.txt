@@ -1,0 +1,18 @@
+Original Skin: phanter yume dan video skin (Runkus Recreation)
+Original Creator: Runkus
+
+Modified by: https://osu.ppy.sh/u/Megaforce
+Date of Modification: 25.8.2024
+
+Modifications:
+This skin is a heavily modified version of the original "phanter yume dan video skin (Runkus Recreation)". The modifications include extensive adjustments to all gameplay elements and general optimizations to the skin.ini file. While some elements from the original skin remain, primarily sounds and menu assets, the majority of the skin has been redesigned and can be considered a separate version.
+
+Additional Notes:
+- The base skin was obtained from a "Saragi skin" video download link, which contained a barebones version of the original skin.
+- It's possible that the original skin may have included elements added by Saragi, such as a profile picture, country flag, and text saying "Player: Saragi" on the playfield. However, this cannot be confirmed as the download source was not directly from Saragi.
+- This modified version should be considered a new skin that uses the Runkus Recreation as a foundation.
+
+Acknowledgments:
+Thank you to Runkus for creating the original skin that served as inspiration and a starting point for this modified version. While this skin has been heavily altered, credit is due for the original work that made this modification possible.
+
+All rights reserved to their respective owners. This skin is for personal use only and should not be distributed without proper crediting.
